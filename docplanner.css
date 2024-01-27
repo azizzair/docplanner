@@ -1,0 +1,145 @@
+.logo {
+	font-size: 2.125rem;
+    color: #00b39b;
+	font-family: roboto;
+	text-align: center;
+}
+.log {
+    width: 268px;
+    height: 33px;
+}
+img {
+    max-width: 100%;
+}
+.par {
+    width: 50%;
+    float: left;
+    min-height: 1px;
+    padding: 10px;
+}
+.para {
+    margin: 0 -10px;
+    box-sizing: inherit;
+}
+div {
+    display: block;
+}
+body {
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+}
+.photo {
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.03);
+    border-radius: 6px;
+    overflow: hidden;
+    max-width: 311px;
+    z-index: 2;
+    position: relative;
+    display: block;
+    color: #747474;
+}
+.photo{
+    margin: 0 -10px;
+    zoom: 1;
+    box-sizing: inherit;
+    display: block;
+}
+.name{
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+}
+.click{
+    float: right;
+    font-size: .625rem;
+    padding: 1em 1.5em;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+.paragraphy{max-width: 460px;
+    margin: 0 auto 4.1875rem;
+    font-size: .875em;
+    text-align: center;
+}
+h1{font-size: 2.1428571429em;
+    margin: 0;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+p{
+    line-height: 1.7142857143;
+    margin: 1.6em 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.green{
+    background: #00ccb1;
+}
+.black{
+    color:black
+}
+.blue{
+    color:blue
+}
+h2{font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+}
+h3{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+}
+.select{margin-bottom: 35px;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    outline: 0;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none!important;
+    transition: all .2s ease 0s;
+    cursor: pointer;
+}
+
+
